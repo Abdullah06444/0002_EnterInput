@@ -15,4 +15,3 @@ namespace CSharp0002_EnterInput
         }
     }
 }
-// C# string karakterlerimizde turkce kullanmaya izin veriyor.
