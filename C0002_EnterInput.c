@@ -5,7 +5,7 @@ int main()
 {
 
 	printf("Type something to the black board: \n");
-	
+
 	char input[SIZE];
 	gets(input); // C dilinde scanf ile string yazmaya izin yok, char yazilabilir.
 
